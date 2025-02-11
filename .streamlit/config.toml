@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#456990"           # Novo tom de azul
+backgroundColor = "#456990"        # Fundo principal
+secondaryBackgroundColor = "#090809"  # Preto para a barra lateral
+textColor = "#FFFFFF"              # Branco para contraste com preto
+font = "sans serif"
+
