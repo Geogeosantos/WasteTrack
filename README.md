@@ -1,4 +1,4 @@
-# WasteTrack
+# WasteTrack <img src="https://i.gifer.com/B1g8.gif" width="35" />
 ------------------------------------------------------
 # Configuração do Banco de Dados
 1. Instale o MySQL ou PostgreSQL em seu ambiente local.
